@@ -34,25 +34,25 @@ I learn best by building projects, solving problems, and experimenting with new 
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### 🔧 Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,blender,postman,jira" />
