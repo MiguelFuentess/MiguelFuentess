@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hola, soy **Miguel Fuentes** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
-
+# Hi, I'm **Miguel Fuentes** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6F2EF7&width=435&lines=Software+Engineering+Student;Data%7CBackend%7CWeb+Development" alt="Typing SVG" />
@@ -16,69 +14,68 @@
 
 ---
 
-<img align="right" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIycHA3ZDRqZ3N2dGw3NXNjNnFsdXhiZWV2emxsZW5jYWh0enByYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif">
+<img align="right" width="240" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIycHA3ZDRqZ3N2dGw3NXNjNnFsdXhiZWV2emxsZW5jYWh0enByYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif">
 
-## Sobre mí
+## About Me
 
-Estudiante de **Ingeniería de Software**.
+Software Engineering student with a strong interest in **data, backend development, and web technologies**.
 
-Profundizando en el **área de datos**, especialmente en Python, bases de datos y procesos relacionados con análisis y transformación de información.
+<br>
 
-Disfruto trabajar en **desarrollo web**, explorando tanto frontend como backend.
+Currently deepening my knowledge in the **data field**, particularly in Python, databases, and processes related to data analysis and transformation.
 
-Me gusta aprender mediante proyectos y experimentar con nuevas tecnologías.
+<br>
+
+I learn best by building projects, solving problems, and experimenting with new technologies.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
-### 💻 Lenguajes
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-### 🌐 Desarrollo Web
+### 🌐 Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs" />
 </p>
 
-### 🗄️ Bases de datos
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,blender" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,blender,postman,jira" />
 </p>
 
 ---
 
-## Actualmente
+## Currently
 
 ```text
-📚 Ingeniería de Software
+📚 Software Engineering
 │
 ├── 🐍 Python
 ├── 📊 Data & Analytics
-├── 🗄️ Bases de Datos
-├── 🌐 Desarrollo Web
-├── 🏗️ Arquitectura de Software
+├── 🗄️ Databases
+├── 🌐 Web Development
+├── 🏗️ Software Architecture
 └── 🌱 Open Source
 ```
 
-Estoy enfocándome en fortalecer mis fundamentos y convertir lo aprendido en proyectos reales.
-
-Mi objetivo no es solamente aprender tecnologías, sino entender **por qué, cuándo y cómo utilizarlas correctamente**.
+My goal is not simply to learn technologies, but to understand **why, when, and how to use them effectively**.
 
 ---
-
 
 ## GitHub Stats
 
@@ -100,18 +97,7 @@ Mi objetivo no es solamente aprender tecnologías, sino entender **por qué, cu�
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img
-  src="./assets/contributions.svg"
-  alt="GitHub Contributions"
-/>
-
-</div>
----
-
 ### *"Always learning, always building."*
 
 </div>
+
