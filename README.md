@@ -13,24 +13,11 @@
 </div>
 
 ---
-
-<img align="right" width="240" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIycHA3ZDRqZ3N2dGw3NXNjNnFsdXhiZWV2emxsZW5jYWh0enByYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif">
-
-## About Me
-
-Software Engineering student with a strong interest in **data, backend development, and web technologies**.
-
-<br>
-
-Currently deepening my knowledge in the **data field**, particularly in Python, databases, and processes related to data analysis and transformation.
-
-<br>
-
-I learn best by building projects, solving problems, and experimenting with new technologies.
-
-<br clear="right"/>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="MiguelFuentess's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ## 🛠️ Technologies & Tools
 
