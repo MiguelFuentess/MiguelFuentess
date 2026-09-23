@@ -60,16 +60,9 @@
 └── 🌱 Open Source
 ```
 
-My goal is not simply to learn technologies, but to understand **why, when, and how to use them effectively**.
-
----
-
-## GitHub Stats
-
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelFuentess&theme=transparent" />
 
-<br><br>
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelFuentess&theme=transparent" />
 
@@ -79,7 +72,7 @@ My goal is not simply to learn technologies, but to understand **why, when, and 
 
 ---
 
-### *"Always learning, always building."*
+### *"Always learning"*
 
 </div>
 
