@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="MiguelFuentess's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 <div align="center">
 
 # Hi, I'm **Miguel Fuentes** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -17,6 +11,15 @@
 <img src="https://komarev.com/ghpvc/?username=MiguelFuentess&label=Profile%20views&color=543DF7&style=flat" alt="Profile views">
 
 </div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="MiguelFuentess's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 
 ---
 
