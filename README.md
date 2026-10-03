@@ -8,8 +8,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MiguelFuentess&label=Profile%20views&color=543DF7&style=flat" alt="Profile views">
-
 </div>
 
 <br>
